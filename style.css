@@ -1,0 +1,56 @@
+.container {
+  width: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #9a74fc;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat'; 
+  font-weight: 900;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #181818;
+}
+
+p {
+  font-size: 2rem;
+  color: #181818;
+  font-family: Ubuntu;
+}
+
+img {
+  width: 80%;
+}
+.btn-refresh{
+  height: 40px;
+  width: 100px;
+  border: none;
+  border-radius: 8px;
+  font-family: 'Montserrat'; 
+  font-weight:bolder;
+  font-size: 1.2rem;
+  text-align: center;
+  margin: auto;
+}
+.btn-refresh:hover{
+  background-color: #c8b4f9;
+}
+footer {
+  margin-top: 4%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Montserrat'; 
+  font-weight: 500;
+
+}
