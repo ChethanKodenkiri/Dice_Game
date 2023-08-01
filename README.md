@@ -1,2 +1,2 @@
 # Play Dice Game 🎲 👇
-https://chethankodenkiri.github.io/dice/
+https://chethankodenkiri.github.io/Dice_Game/
